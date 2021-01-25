@@ -8,9 +8,9 @@ On travaillera ici uniquement avec des faces quadrangulaires (i.e. 4 côtés) ca
 |Les touches | Fonction|
 |:---:|:---|
 |c | Créer le cube intial|
-|e | Extrude quad |
-\+ / - | Élargir / diminuer la taille
-z / Z  | Rétrécir / aggrandir la face du cube
+|e | Extruder la face |
+\+ / - | Élargir / diminuer la taille du cube
+z / Z  | Rétrécir / aggrandir la face
 t / T | Tourner le cube
 s | Générer l’étoile
 a | Générer la spirale
